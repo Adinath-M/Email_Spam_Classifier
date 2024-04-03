@@ -4,13 +4,6 @@ This project is aimed at developing a machine learning model to classify emails 
 
 Live Production URL https://email-spam-classifier-hqpw.onrender.com/predict
 
-# Table of Contents
-Introduction
-Installation
-Usage
-Contributing
-License
-
 # Introduction
 
 Email spam remains a prevalent issue in the digital world, and efficient classification methods are necessary to filter out unwanted emails. This project presents a solution by employing machine learning algorithms to automatically classify emails as spam or legitimate.
@@ -18,10 +11,14 @@ Email spam remains a prevalent issue in the digital world, and efficient classif
 # Installation
 
 1. Clone the repository:
-git clone https://github.com/ShreyashInsights/email-spam-classifier.git
+```
+https://github.com/Adinath-M/Email_Spam_Classifier.git
+```
 
 2. Install dependencies:
+```
 pip install -r requirements.txt
+```
 
 # Usage
 
