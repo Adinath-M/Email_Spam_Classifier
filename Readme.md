@@ -2,6 +2,8 @@
 
 This project is aimed at developing a machine learning model to classify emails as either spam or legitimate (ham). It utilizes Natural Language Processing (NLP) techniques and classification algorithms to achieve this task.
 
+Live Production URL https://email-spam-classifier-hqpw.onrender.com/predict
+
 # Table of Contents
 Introduction
 Installation
@@ -46,6 +48,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (git push origin feature/your-feature).
 6. Create a new Pull Request.
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
